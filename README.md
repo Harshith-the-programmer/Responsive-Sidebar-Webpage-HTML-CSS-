@@ -22,3 +22,6 @@ Responsive-Sidebar-Webpage
 
 ## Purpose
 This project demonstrates frontend design skills including responsive layouts, sidebar navigation, and user-friendly UI structure.
+
+## Preview
+![Project Preview](screenshot.png)
